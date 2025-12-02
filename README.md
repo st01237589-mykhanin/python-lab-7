@@ -1,2 +1,2 @@
-# python-lab-7
-Самостійна робота 7
+# Самостійна робота 7
+Веб-застосунок + PostgreSQL + Docker Compose
